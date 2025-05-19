@@ -1,6 +1,6 @@
 # Ahlem-Marzouk
 
- Hello, my name is [![Ahlem](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahlem-marzouk/). I'm a **data exper**t with considerable expertise in data scraping, preprocessing, analytics, and reporting.  I specialize in using clean, organized data to create sophisticated machine learning and deep learning models.  
+ Hello, my name is [Ahlem](www.linkedin.com/in/ahlem-marzouk/). I'm a **data exper**t with considerable expertise in data scraping, preprocessing, analytics, and reporting.  I specialize in using clean, organized data to create sophisticated machine learning and deep learning models.  
  
  My objective is to **analyze complicated patterns**, **extract useful insights**, and **create advanced recommendation and prediction models**.
 
