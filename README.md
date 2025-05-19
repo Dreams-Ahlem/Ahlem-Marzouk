@@ -1,6 +1,6 @@
 # Ahlem-Marzouk
 
-(https://pin.it/1viQg8CKS)
+![Coding GIF](https://raw.githubusercontent.com/username/repo/main/coding.gif)
 
  Hello, my name is ![Ahlem](https://www.linkedin.com/in/ahlem-marzouk/). I'm a **data exper**t with considerable expertise in data scraping, preprocessing, analytics, and reporting.  I specialize in using clean, organized data to create sophisticated machine learning and deep learning models.  
  
