@@ -5,7 +5,7 @@
  Hello, my name is ![Ahlem](https://www.linkedin.com/in/ahlem-marzouk/). I'm a **data exper**t with considerable expertise in data scraping, preprocessing, analytics, and reporting.  I specialize in using clean, organized data to create sophisticated machine learning and deep learning models.  
  
  My objective is to **analyze complicated patterns**, **extract useful insights**, and **create advanced recommendation and prediction models**.
- (https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00755c4d542a1d5545e1_60d34f3b422c048fb72cb925_Analyze.gif)
+ ![insights](https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00755c4d542a1d5545e1_60d34f3b422c048fb72cb925_Analyze.gif)
 
  I am also a **talented trainor**, having taught mathematics to engineering students for over ten years and educating on machine learning and deep learning ideas.  I have a good academic background, as proven by my published publications.
 
