@@ -1,6 +1,6 @@
 # Ahlem-Marzouk
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW05d2VrOGh1Y2R1M2R4dW5jZ3J4Y2F6dGJ6d2NtY3Z4bWxqZ2RzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Coding GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdata-analytics-animation--311381761730704419%2F&psig=AOvVaw0_yLRnefmwHlC_5bGZYQSw&ust=1747751451039000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCJvtbfr40DFQAAAAAdAAAAABAo)  
 
  Hello, my name is ![Ahlem](https://www.linkedin.com/in/ahlem-marzouk/). I'm a **data exper**t with considerable expertise in data scraping, preprocessing, analytics, and reporting.  I specialize in using clean, organized data to create sophisticated machine learning and deep learning models.  
  
