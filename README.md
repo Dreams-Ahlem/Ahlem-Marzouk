@@ -14,7 +14,8 @@
  ## Skills:
  ![skills](https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif)
  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![Django](https://dotbadges.com/wp-content/uploads/2023/01/Django-Sticker-510x510.webp)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![Django](https://img.shields.io/badge/Python)
+
 
 
 
