@@ -79,28 +79,20 @@ I am committed to making analyses accessible and sharing my knowledge so that ea
 <!-- Experiment tracking / registry -->
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-<!-- Data & model versioning -->
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
 <!-- Pipelines / orchestration -->
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-1F2A44?style=for-the-badge&logo=prefect&logoColor=white)
 
 <!-- Data quality -->
 ![Great_Expectations](https://img.shields.io/badge/Great_Expectations-3B3B3B?style=for-the-badge&logo=greatexpectations&logoColor=white)
 
 <!-- IaC / Cloud -->
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<!-- Serving / APIs -->
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<!-- Observability -->
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 
 
